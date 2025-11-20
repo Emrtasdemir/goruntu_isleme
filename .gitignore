@@ -1,0 +1,15 @@
+# Venv
+.venv/
+.venv310/
+
+# Pycache
+__pycache__/
+
+# Torch cache
+acikhali2/_torch_cache/
+
+# IDE
+.idea/
+
+# Temp images
+Ekran görüntüsü*
